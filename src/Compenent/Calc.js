@@ -4,7 +4,7 @@
     const [result, setresult]=useState("")
 
     const handleClick = (e) => setresult(result.concat(e.target.name) );
-    const Clear =(e)=>setresult('');
+    const Clear =()=>setresult('');
     const backspace =(e)=>setresult(result.slice(0,-1));
     const calculate =(e)=>{
       try{
