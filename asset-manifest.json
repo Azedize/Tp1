@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Azedize/Tp1.git/static/css/main.b7d17ad1.css",
-    "main.js": "/Azedize/Tp1.git/static/js/main.8fa6a40f.js",
-    "static/js/787.3d1a502e.chunk.js": "/Azedize/Tp1.git/static/js/787.3d1a502e.chunk.js",
-    "index.html": "/Azedize/Tp1.git/index.html",
-    "main.b7d17ad1.css.map": "/Azedize/Tp1.git/static/css/main.b7d17ad1.css.map",
-    "main.8fa6a40f.js.map": "/Azedize/Tp1.git/static/js/main.8fa6a40f.js.map",
-    "787.3d1a502e.chunk.js.map": "/Azedize/Tp1.git/static/js/787.3d1a502e.chunk.js.map"
+    "main.css": "/Tp1/static/css/main.b7d17ad1.css",
+    "main.js": "/Tp1/static/js/main.a7aaf6be.js",
+    "static/js/787.3d1a502e.chunk.js": "/Tp1/static/js/787.3d1a502e.chunk.js",
+    "index.html": "/Tp1/index.html",
+    "main.b7d17ad1.css.map": "/Tp1/static/css/main.b7d17ad1.css.map",
+    "main.a7aaf6be.js.map": "/Tp1/static/js/main.a7aaf6be.js.map",
+    "787.3d1a502e.chunk.js.map": "/Tp1/static/js/787.3d1a502e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7d17ad1.css",
-    "static/js/main.8fa6a40f.js"
+    "static/js/main.a7aaf6be.js"
   ]
 }
